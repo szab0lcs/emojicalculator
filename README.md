@@ -1,4 +1,4 @@
 # emojicalculator
-Written in JavaScript
-Example:
+Written in JavaScript  
+Example:  
 💯✖️10➕🎱 = 💯8️⃣
